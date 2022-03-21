@@ -18,6 +18,6 @@ Languages I will learn next<br>
 <img src="img/python.png" width="30px">
 
 # My project
-<img src="img/logo_wiki.png" align="left" width="20px">
+<img src="img/logo_wiki.png" align="left" width="28px">
 
 [MCBE Command Wiki for Vietnamese](https://github.com/HgVN23/HgVN23.github.io)

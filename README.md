@@ -1,7 +1,7 @@
 # Hi there 👋
 <img src="img/hg_pixel.png" align="left" width="300px">
 
-💬 I'm Hoàng but you can call me Hg (my nickname)
+💬 I'm Hoàng but you can call me Hg (my nickname)<br>
 🕶️ `He/him`<br>
 ⏲️ `18/∞`<br>
 🧠 `UNETI University freshman`<br>

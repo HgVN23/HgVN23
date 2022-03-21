@@ -16,6 +16,6 @@ Languages I know and will improve<br>
 Languages I will learn next<br>
 <img src="img/vue.png" width="30px">
 <img src="img/python.png" width="30px">
-#
+
 # My project
 [MCBE Command Wiki for Vietnamese](https://github.com/HgVN23/HgVN23.github.io)

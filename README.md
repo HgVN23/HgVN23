@@ -1,11 +1,13 @@
 # Hi there 👋
 I'm Hoàng but you can call me Hg (my nickname)
+
 <img src="img/hg_pixel.png" align="left" width="200px">
 🕶️ `He/him`<br>
 ⏲️ `18/∞`<br>
 🧠 `UNETI University freshman`<br>
 🎮 `Minecraft Bedrock`<br>
 💙 `Pixel Art` + `Coding`
+
 #
 Languages I know and will improve<br>
 <img src="img/html.png" width="30px">

@@ -18,5 +18,5 @@ Languages I will learn next<br>
 <img src="img/python.png" width="30px">
 
 # My project
-<img src="img/logo_wiki.png" aglin="left" width="30px">
+<img src="img/logo_wiki.png" align="left" width="30px">
 [MCBE Command Wiki for Vietnamese](https://github.com/HgVN23/HgVN23.github.io)

@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="img/hg_pixel.png" align="left" width="300px">
+<img src="img/hg_pixel.png" align="left" width="280px">
 
 💬 I'm Hoàng but you can call me Hg (my nickname)<br>
 🕶️ `He/him`<br>
@@ -16,8 +16,6 @@ Languages I know and will improve<br>
 Languages I will learn next<br>
 <img src="img/vue.png" width="30px">
 <img src="img/python.png" width="30px">
-
-
 
 # My project
 [MCBE Command Wiki for Vietnamese](https://github.com/HgVN23/HgVN23.github.io)

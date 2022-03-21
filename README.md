@@ -1,5 +1,5 @@
 # Hi there 👋
-<img src="img/hg_pixel.png" align="left" width="200px">
+<img src="img/hg_pixel.png" align="left" width="300px">
 
 💬 I'm Hoàng but you can call me Hg (my nickname)
 🕶️ `He/him`<br>

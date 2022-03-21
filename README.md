@@ -2,8 +2,8 @@
 
 I'm Hoàng but you can call me Hg (my nickname)
 
-<img src="img/hg_pixel.png" width="50%">
-:flag_vn: `He/Him`
+<img src="img/hg_pixel.png" width="50px">
+🇻🇳 `He/him`
 ⏳ `18/∞`
 🧠 `UNETI University freshman`
 🎮 `Minecraft Bedrock`

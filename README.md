@@ -1,22 +1,13 @@
 # Hi there 👋
-## I'm Hoàng but you can call me Hg (my nickname)
 
-<style>
-	.box {
-		display: flex;
-	}
-</style>
+I'm Hoàng but you can call me Hg (my nickname)
 
-<div class="box">
-	<img src="img/hg_pixel.png" style="height: 50%; width: 50%;">
-	<div>
-		:flag_vn: `He/Him`
-		⏳ `18`
-		🧠 `UNETI University freshman`
-		🎮 `Minecraft Bedrock`
-		💙 `Love Pixel Art`
-	</div>
-</div>
+<img src="img/hg_pixel.png" width="50%">
+:flag_vn: `He/Him`
+⏳ `18/∞`
+🧠 `UNETI University freshman`
+🎮 `Minecraft Bedrock`
+💙 `Pixel Art`
 
 
 <!-- Headings

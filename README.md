@@ -1,4 +1,4 @@
-<img src="img/hg_pixel.png" align="left" width="300px">
+<img src="img/hg_pixel.png" align="left" width="500px">
 
 # Hi there 👋
 💬 I'm Hoàng but you can call me Hg (my nickname)<br>

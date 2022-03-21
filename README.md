@@ -6,10 +6,10 @@ I'm Hoàng but you can call me Hg (my nickname)
 
 <div>
 	
-	🇻🇳 `He/him` <br>
-	⏳ `18/∞` <br>
-	🧠 `UNETI University freshman` <br>
-	🎮 `Minecraft Bedrock` <br>
+	🇻🇳 `He/him`<br>
+	⏳ `18/∞`<br>
+	🧠 `UNETI University freshman`<br>
+	🎮 `Minecraft Bedrock`<br>
 	💙 `Pixel Art`
 	
 </div>

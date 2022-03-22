@@ -1,6 +1,6 @@
 <img src="img/hg_pixel.png" align="right" width="400px">
 
-#  <img src="img/hg_smile.png" align="left" width="40px" >Hi there
+# <img src="img/hg_smile.png" align="left" width="40px">Hi there
 💬 I'm Hoàng but you can call me Hg (my nickname)
 
 🕶️ `He/him`<br>

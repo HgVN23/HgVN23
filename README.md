@@ -7,7 +7,7 @@
 ⏲️ `18/∞`<br>
 🧠 `UNETI University freshman`<br>
 🎮 `Minecraft Bedrock`<br>
-💙 `Pixel Art` + `Coding`
+💙 `Pixel Art` + `Coding` + `EDM`
 
 Languages I know and will improve<br>
 <img src="img/html.png" width="30px">

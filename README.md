@@ -13,6 +13,7 @@
 <img src="img/html.png" width="30px">
 <img src="img/css.png" width="30px">
 <img src="img/js.png" width="30px">
+<img src="img/cpp.png" width="30px">
 
 ⏳Languages I will learn next<br>
 <img src="img/vue.png" width="30px">

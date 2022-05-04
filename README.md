@@ -16,6 +16,7 @@
   <img src="img/js.png" width="30px">
   <img src="img/cpp.png" width="30px">
 </div>
+<br>
 <div>
   ⏳Languages I will learn next<br>
   <img src="img/vue.png" width="30px">

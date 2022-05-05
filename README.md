@@ -3,10 +3,10 @@
 # <img src="img/hg_smile.png" align="top" width="40px">Hi there
 💬 I'm Hoàng but you can call me Hg (my nickname)
 
-🕶️ `He/him`
-⏲️ `18/∞`
-🧠 `UNETI University freshman`
-🎮 `Minecraft Bedrock`
+🕶️ `He/him`<br>
+⏲️ `18/∞`<br>
+🧠 `UNETI University freshman`<br>
+🎮 `Minecraft Bedrock`<br>
 💙 `Pixel Art` + `EDM` + `Coding`
 
 <div>

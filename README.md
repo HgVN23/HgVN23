@@ -1,6 +1,6 @@
 <img src="img/hg_pixel.png" align="right" width="400px">
 
-# <img src="img/hg_smile.png" align="top" width="40px">Hi there
+# <img src="img/hg_smile.png" align="top" width="40px"> Hi there
 💬 I'm Hoàng but you can call me Hg (my nickname)
 
 🕶️ `He/him`<br>
@@ -23,5 +23,5 @@
   <img src="img/python.png" width="30px">
 </div>
 
-# <img src="img/project.png" align="top" width="40px">My project
+# <img src="img/project.png" align="top" width="40px"> My project
 <img src="img/logo_wiki.png" align="top" width="25px">[MCBE Command Wiki for Vietnamese](https://github.com/HgVN23/HgVN23.github.io)

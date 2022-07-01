@@ -5,7 +5,7 @@
 
 🕶️ `He/him`<br>
 ⏲️ `18/∞`<br>
-🧠 `UNETI University freshman`<br>
+🧠 `UNETI University sophomore`<br>
 🎮 `Minecraft Bedrock`<br>
 💙 `Pixel Art` + `EDM` + `Coding`
 

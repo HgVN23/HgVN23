@@ -24,5 +24,5 @@
 </div>
 
 # <img src="img/project.png" align="top" width="40px"> My project
-<img src="img/logo_wiki.png" align="top" width="25px">[MCBE Command Wiki for Vietnamese](https://github.com/HgVN23/HgVN23.github.io)
-<img src="https://raw.githubusercontent.com/HgVN23/friendGift/main/assets/media/icon/friend_gift.pngg" align="top" width="25px">[Friend's Gifts for Hg](https://github.com/HgVN23/friendGift)
+<img src="https://raw.githubusercontent.com/HgVN23/HgVN23.github.io/main/assets/media/logo/logo_wiki.png" align="top" width="25px"> [MCBE Command Wiki for Vietnamese](https://github.com/HgVN23/HgVN23.github.io)<br>
+<img src="https://raw.githubusercontent.com/HgVN23/friendGift/main/assets/media/icon/friend_gift.png" align="top" width="25px"> [Friend's Gifts for Hg](https://github.com/HgVN23/friendGift)

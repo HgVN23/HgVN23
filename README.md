@@ -18,7 +18,7 @@
 </div>
 <br>
 <div>
-  ⏳Languages I will learn next<br>
+  ⏳Languages I will learn next (perhaps)<br>
   <img src="img/vue.png" width="30px">
   <img src="img/python.png" width="30px">
 </div>

@@ -4,7 +4,7 @@
 💬 I'm Hoàng but you can call me Hg (my nickname)
 
 🕶️ `He/him`<br>
-⏲️ `18/∞`<br>
+⏲️ `19/∞`<br>
 🧠 `UNETI University sophomore`<br>
 🎮 `Minecraft Bedrock`<br>
 💙 `Pixel Art` + `EDM` + `Coding`

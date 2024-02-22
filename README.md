@@ -22,5 +22,5 @@
 </div> -->
 
 # <img src="img/project.png" align="top" width="40px"> My project
-<img src="https://raw.githubusercontent.com/HgVN23/HgVN23.github.io/main/assets/media/logo/logo_wiki.png" align="top" width="25px"> [MCBE Command Wiki for Vietnamese](https://github.com/HgVN23/HgVN23.github.io)<br>
-<img src="https://raw.githubusercontent.com/HgVN23/Dainisekai/main/assets/media/image/icon/logo.png" align="top" width="25px"> [Dainisekai](https://github.com/HgVN23/Dainisekai)
+<img src="https://raw.githubusercontent.com/HgVN23/HgVN23.github.io/main/assets/media/logo/logo_wiki.png" align="top" width="25px"> [MCBE Command Wiki for Vietnamese](https://github.com/HgVN23/HgVN23.github.io) (Stopped)<br>
+<img src="https://raw.githubusercontent.com/HgVN23/Dainisekai/main/assets/media/image/icon/logo.png" align="top" width="25px"> [Dainisekai](https://github.com/HgVN23/Dainisekai) (Ongoing)

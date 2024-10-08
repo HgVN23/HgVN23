@@ -3,7 +3,7 @@
 💬 I'm Hoàng but you can call me Hg/Shuuya (my nickname)
 
 🕶️ `He/him`<br>
-🧠 `UNETI University 3/4`<br>
+🧠 `UNETI University 4/4`<br>
 💙 `Pixel Art` + `Anime/Manga (Rom-com | Fantasy | VRMMO)`
 #
 💻Languages I know and will improve
@@ -11,7 +11,7 @@
   <img src="img/html.png" width="30px">
   <img src="img/css.png" width="30px">
   <img src="img/js.png" width="30px">
-  <img src="img/cpp.png" width="30px">
+<!--   <img src="img/cpp.png" width="30px"> -->
 </div>
 <br>
 <!-- <div>
